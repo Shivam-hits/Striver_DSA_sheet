@@ -18,3 +18,4 @@ int main(){
     int c=No_digits(num);
     printf("Number of digits are %d ",c);
 }
+
