@@ -1,4 +1,4 @@
-//  Q) Given an integer N, write a program to count the number of digits in N.
+# Q) Given an integer N, write a program to count the number of digits in N.
 
 # python
 
